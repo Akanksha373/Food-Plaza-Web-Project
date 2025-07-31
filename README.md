@@ -8,6 +8,7 @@ Key Features ✨
 # 1. Customer Module (Frontend)
 • Effortless Food Browse:
   • Browse a wide variety of food items with details like name, price, quantity available and category.
+  
   • See appealing food images (if uploaded by admin).
 • Intuitive Shopping Cart:
   • Add desired food items to your shopping cart.
