@@ -7,6 +7,7 @@ Key Features ✨
 
 # 1. Customer Module (Frontend)
 • Effortless Food Browse:
+
  • Browse a wide variety of food items with details like name, price, quantity available and category.
   
   • See appealing food images (if uploaded by admin).
@@ -14,25 +15,43 @@ Key Features ✨
 • Intuitive Shopping Cart:
 
   • Add desired food items to your shopping cart.
+  
   • Adjust quantities of items in the cart.
+  
   • Remove items from the cart.
+  
   • View your cart's total amount.
+  
 • Secure Customer Registration & Login:
+
   • New users can easily register for an account.
+  
   • Existing users can log in securely to access their personalized features.
+  
 • Streamlined Order Placement:
+
   • Place orders directly from the cart with a single click.
+  
   • Access a history of all your past orders.
+  
 • Personalized Profile Management:
+
   • Customers can view and update their profile details (name, address, contact).
 
 # 2. Admin Module (Backend Management)
+
 • Secure Admin Login:
+
   • Dedicated login for administrators to access management functionalities.
+  
 • Comprehensive Dashboard:
+
   • Gain an overview of the entire system from a centralized dashboard.
+  
   • Quick access to Food Item Management, Customer Management, and Order Management.
+  
 • Dynamic Food Item Management:
+
   • Add New Food Items: Easily add new dishes to the menu, including name, price, category, and uploading a food image.
   • Edit Existing Food Items: Update details (name, price, category, image) for any menu item.
   • Delete Food Items: Remove dishes from the menu. (Note: Deleting a food item also removes its associated image file from the server).
